@@ -1,27 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_428d003cdba9449db09e3f106bab8209~mv2.png"group-title="group-title="",ESPN EXTRA SUR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_99983b48130d421e8130f11dc38748e3~mv2.png"group-title="group-title="",ESPN EXTRA
 http://ssl.isabelii.online:8081/obs/espnextraX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_947e5d24ce0548518ee25a6f54020772~mv2.png"group-title="",ESPN SUR
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="",ESPN
 http://ssl.isabelii.online:8081/obs/espn1X/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_99af0c2e57f64268bc47f74b03c54ad1~mv2.png"group-title="",TUDN USA
 http://ssl.isabelii.online:8081/obs/tudnX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2902d71edf944de4b2beb8a96c592fdf~mv2.png"group-title="",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f301fd5f4d4e42719b8528caafc254e5~mv2.png"group-title="",FOX SPORTS PREMIUM
 http://ssl.isabelii.online:8081/obs/foxpremiumX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7b1ff6a07ce346a99770939112fbdc61~mv2.png"group-title="",VTV PLUS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3e5dee84c4de45f8b8fe2d3a04d2805b~mv2.png"group-title="",VTV PLUS
 http://ssl.isabelii.online:8081/obs/vtvplusX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_eee6f6d52a29475a8435bdc673a5e5c5~mv2.png"group-title="",TyC SPORTS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3b3941fa5dd5439ca36d0e1563cdcfb5~mv2.png"group-title="",TyC SPORTS
 http://ssl.isabelii.online:8081/obs/tycX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1d4c4dbaadf34ab5a5b835fb7b0027f5~mv2.png"group-title="",CLARO SPORTS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"group-title="",CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_757056202ebc496fb1cdb86090644414~mv2.png"group-title="",BEIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_757056202ebc496fb1cdb86090644414~mv2.png"group-title="",BEIN SPORTS EXTRA Ñ1
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1197301079827976195/sRCIndHu_400x400.jpg"group-title="",TIGO SPORTS
-http://190.61.102.67:3000/play/a03f
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png"group-title="",BEIN SPORTS EXTRA
-https://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
-#EXTINF:-1 tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png"group-title="",BEIN SPORTS EXTTRA Ñ
+#EXTINF:-1 tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png"group-title="",BEIN SPORTS EXTTRA Ñ2
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png"group-title="",TUDN
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_757056202ebc496fb1cdb86090644414~mv2.png"group-title="",BEIN SPORTS
+https://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_89892eadd20b49559288b5918719906f~mv2.png"group-title="",TUDN
 http://54.39.19.162:8081/live/dream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PJBIuonAapU/XW3IAQjonnI/AAAAAAAAAJU/1murtLXym8kU5Oh6MD1pRBgYkqzS6joZACLcBGAs/s1600/fox-sports-2.png"group-title="",FOX SPORT2
 http://190.92.25.115:8000/play/a0ab/index.m3u8
@@ -56,9 +54,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 
 NACIONALES
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl6A8yDnkjKTmCFm1U2OimEcLZchtIHhWRiS5JDMTDtNo)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zb-WkzV8eHarklXUh88qt769ECGjLukZzsha_WphtsSa)/dm/3/x7vsezg/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLouxaVkblmnca1ZUl-mE1LXTv4b2DOn3RQX-C6ZAU72b)/dm/3/x825whp/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuqAGVNrftbl66dYI7W9mbOCPl3N9sm7s_fv2XDzcNnW)/dm/3/x825whp/d/live-1.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision UPPTV
