@@ -42,9 +42,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 
 NACIONALES
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYM_fRHb47yt48HXtuCv5Hn7Mq7rL73A71xJ8aV-knpn)/dm/3/x7vsezg/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZExJhA-ghLEv95Vm7wwyiibJnYy-cEhIcbMYRC3fHQc)/dm/3/x7vsezg/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpq3XklgdtEHnsTd_xp4BEAGuOjxc0IHjkLa05j9TnwF)/dm/3/x825whp/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoJ3_Kd77LrnG-u7iYDaQOMbb53neyfrt6KPCMzBnTsO)/dm/3/x825whp/d/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision UPPTV
@@ -148,6 +148,20 @@ http://45.5.119.202:8000/play/a031/index.m3u8
 http://190.92.25.115:8000/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/789245.png"group-title="",HBO FAMILY
 http://45.5.119.202:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="",HBO
+
+http://190.108.87.149:8000/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="",HBO
+2
+http://45.162.135.1:1080/play/a05g
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="",HBO PLUS
+http://45.162.135.1:1080/play/a05i
+#EXTINF:-1 tvg-logo="https://logoeps.com/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector.png"group-title="",Discovey Channel
+http://190.108.87.149:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2b02138544be4e898ed46b2322a24a8d~mv2.png"group-title="",WARNER TV
+http://190.108.87.149:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png"group-title="",Start Channel
+http://45.162.135.1:1080/play/a09c
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d6/66/2c/d6662cdffe29a10ece126d8df283ecee.jpg"group-title="",Comedy Central
 http://190.108.83.142:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://diseccionmoon.com/wp-content/uploads/2022/01/AE.jpg"group-title="",A&E
