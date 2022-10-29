@@ -1,25 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/Fox_Sports_3.png"group-title="",FOX SPORTS
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="",FOX SPORTS
 http://two.osito.monster:8081/DEP/fo_sp_mx546546/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAxOjE2OjUxIEFNJmhhc2hfdmFsdWU9czlVOWZlbkJxTVVtT1g2TTFQUWFoUT09JnZhbGlkbWludXRlcz0yMjA=&1
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PJBIuonAapU/XW3IAQjonnI/AAAAAAAAAJU/1murtLXym8kU5Oh6MD1pRBgYkqzS6joZACLcBGAs/s1600/fox-sports-2.png"group-title="",FOX SPORT2
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="",FOX SPORTS 2
 http://190.92.25.115:8000/play/a0ab/index.m3u8
-#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/Fox_Sports_3.png"group-title="",FOX SPORTS 3
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="",FOX SPORTS 3
 http://two.osito.monster:8081/DEP/fox_sp_3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAxOjMxOjAxIEFNJmhhc2hfdmFsdWU9Q05vMEkrZHRJcXRBWE5sZ0hvSnF1dz09JnZhbGlkbWludXRlcz0yMjA=&1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f301fd5f4d4e42719b8528caafc254e5~mv2.png"group-title="",FOX SPORTS PREMIUM
 http://one.osito.monster:8081/oobs/foxpremiumX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_99af0c2e57f64268bc47f74b03c54ad1~mv2.png"group-title="",TUDN USA
-http://one.osito.monster:8081/oobs/studn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3b3941fa5dd5439ca36d0e1563cdcfb5~mv2.png"group-title="",TyC SPORTS
 http://one.osito.monster:8081/obs/tycX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo=""group-title="",TNT SPORTS
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-sports-chile-logo-B6EA5EA7BC-seeklogo.com.png"group-title="",TNT SPORTS
 http://two.osito.monster:8081/DEP/TNT_SPORTS_ARG/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAxOjE5OjA0IEFNJmhhc2hfdmFsdWU9YkxzOTgzSzZ3MWRZQUFRVzc3dHpadz09JnZhbGlkbWludXRlcz0yMjA=&1
-#EXTINF:-1 tvg-logo=""group-title="",TNT SPORTS 2
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-sports-chile-logo-B6EA5EA7BC-seeklogo.com.png"group-title="",TNT SPORTS 2
 http://two.osito.monster:8081/DEP/tnt_sports_222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAxOjIyOjA1IEFNJmhhc2hfdmFsdWU9R1ZRQW5kMWdlRVplMnVHNVFsdEUvUT09JnZhbGlkbWludXRlcz0yMjA=&1
-#EXTINF:-1 tvg-logo=""group-title="",TNT SPORTS HD
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-sports-chile-logo-B6EA5EA7BC-seeklogo.com.png"group-title="",TNT SPORTS HD
 http://two.osito.monster:8081/DEP/tnt_sports_chile/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAxOjIzOjQxIEFNJmhhc2hfdmFsdWU9emFpNDBhQzZpUjczYkRQbEdjZW5BZz09JnZhbGlkbWludXRlcz0yMjA=&1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_DirecTV_marzo_de_2018.jpg"group-title="",Directv Sports Plus
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="",Directv Sports Plus
 http://two.osito.monster:8081/ssl/dtv+9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAxOjE0OjM4IEFNJmhhc2hfdmFsdWU9SS9JUFA0U3lzdGZIaFpXNjRtakp5QT09JnZhbGlkbWludXRlcz0yMjA=&1
-#EXTINF:-1 tvg-logo="https://wikidat.com/img/directv-sports-0cdd568775e01e5898eadb7fb1744b2d.jpg"group-title="",Directv Sports2
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="",Directv Sports2
 http://two.osito.monster:8081/ssl/dtv29874/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAxOjEyOjE2IEFNJmhhc2hfdmFsdWU9M3hqVjhUQk0wSTlqVlptQzlEMkV3Zz09JnZhbGlkbWludXRlcz0yMjA=&1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png"group-title="",GOL TV
 
@@ -28,14 +26,16 @@ http://two.osito.monster:8081/DEP/gol_NUEVO/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 http://one.osito.monster:8081/oracle/Xespn1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_99983b48130d421e8130f11dc38748e3~mv2.png"group-title="group-title="",ESPN EXTRA1
 http://one.osito.monster:8081/obs/espnextraX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"group-title="",TUDN USA
+http://one.osito.monster:8081/oobs/studn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_89892eadd20b49559288b5918719906f~mv2.png"group-title="",TUDN
+http://54.39.19.162:8081/live/dream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_99983b48130d421e8130f11dc38748e3~mv2.png"group-title=",ESPN EXTRA2
 http://45.5.119.202:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"group-title="",CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:-1 tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png"group-title="",BEIN SPORTS EXTRA Ñ1
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_89892eadd20b49559288b5918719906f~mv2.png"group-title="",TUDN
-http://54.39.19.162:8081/live/dream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg"group-title="",DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c36b9d281a774cb8953d775881a4db6a~mv2.png"group-title="PERU",Best Cable Sports PE
