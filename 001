@@ -63,8 +63,6 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 NACIONALES
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX
-https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4UxJN8sSHW2pxOO9Wwt7dYgtdb9Jk5X_QgOGYUIkngY)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
@@ -233,8 +231,6 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w1486727684.m3u8
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 CINE
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX
-https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO-logo-6D447EB3D5-seeklogo.com.png"group-title="",HBO
 http://slp1.noxity.online:8081/cine/HBO35354/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDQ6MTM6MjYgUE0maGFzaF92YWx1ZT1HakxEcFYyRjFNMzQzNElwd2N2MnNBPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO-logo-6D447EB3D5-seeklogo.com.png"group-title="",HBO2
@@ -361,8 +357,6 @@ https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/chunks.m3u8
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
 INFANTILES
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX
-https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d7118f3dcb37462b8387b3a3ea54f017~mv2.png"group-title="Canales Bolivianos",SEO TV KIDS
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="INFANTILES",Disney Channel
