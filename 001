@@ -231,15 +231,15 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w1486727684.m3u8
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 CINE
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO-logo-6D447EB3D5-seeklogo.com.png"group-title="",HBO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8cb3e5e1719347c481a4d078552f1977~mv2.png"group-title="",HBO
 http://slp1.noxity.online:8081/cine/HBO35354/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDQ6MTM6MjYgUE0maGFzaF92YWx1ZT1HakxEcFYyRjFNMzQzNElwd2N2MnNBPT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO-logo-6D447EB3D5-seeklogo.com.png"group-title="",HBO2
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_261d61c95f944ea699fb2950bf1e483f~mv2.png"group-title="",HBO2
 http://slp1.noxity.online:8081/cine/HBO_25445631/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDQ6MTQ6NTUgUE0maGFzaF92YWx1ZT1ESkZRb1Q1ck11M1VvRjV3YzRDNlFnPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png"group-title="",HBO FAMILY
 http://slp1.noxity.online:8081/cine/HBO_FAMILY54564564/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDQ6MTY6NDAgUE0maGFzaF92YWx1ZT1WamxRa3pBNUdwa3dSRWFiSEhyZmZ3PT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png"group-title="",HBO MUNDI
 http://slp1.noxity.online:8081/cine/HBO_MUNDI46534563/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDQ6MTc6NTIgUE0maGFzaF92YWx1ZT05WGhIRUxBMjJvc0hWVzlxNnRheHdRPT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="",HBO PLUS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f03130322ea4e9e9f3e469f73d0bf97~mv2.png"group-title="",HBO PLUS
 http://slp1.noxity.online:8081/cine/HBO_PLUS5345634/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDQ6MTk6MDggUE0maGFzaF92YWx1ZT1qV1ROM0JVY3llYm4vSjZSTzY0cyt3PT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png"group-title="",HBO POP
 http://slp1.noxity.online:8081/cine/HBO_POP54564/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDQ6MjE6MzEgUE0maGFzaF92YWx1ZT03aUdKdEFhb21qT0JHMElqVmpIUXlnPT0mdmFsaWRtaW51dGVzPTIyMA==
@@ -360,7 +360,7 @@ INFANTILES
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d7118f3dcb37462b8387b3a3ea54f017~mv2.png"group-title="Canales Bolivianos",SEO TV KIDS
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="INFANTILES",Disney Channel
-http://slp1.noxity.online:8081/INFANTIL/DISNEY_XD5435453/chunks.m3u8?nimblesessionid=8795252&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDU6NDU6MzAgUE0maGFzaF92YWx1ZT1kV0JSSEtqYTBpbHB5RmpoUDVDaU9RPT0mdmFsaWRtaW51dGVzPTIyMA==&_HLS_msn=2866&_HLS_part=5
+http://slp1.noxity.online:8081/INFANTIL/DISNEY_XD5435453/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDY6NDc6MDYgUE0maGFzaF92YWx1ZT1ESnYxMWZOdHN0ZEk1M0JQdGpZQkp3PT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/teen-nick-logo-1CB3938D3A-seeklogo.com.png"group-title="",TeenNick
 http://slp1.noxity.online:8081/INFANTIL/NICK5555/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDU6NDc6MTQgUE0maGFzaF92YWx1ZT05ZVB2eFJ1eTgwSmYrYkZLTW9tYUZnPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0f6c7448ca154814827c7f3a5e74a244~mv2.png"group-title="",Planeta KIDS
