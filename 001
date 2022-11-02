@@ -2,21 +2,19 @@
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-sports-chile-logo-B6EA5EA7BC-seeklogo.com.png"group-title="",TNT SPORTS
-http://slp1.noxity.online:8081/DEP/TNT_SPORTS_ARG/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDg6NTY6MTggUE0maGFzaF92YWx1ZT1zOUJmeXdjZDRYUkJNcG9oUGNIMXdBPT0mdmFsaWRtaW51dGVzPTIyMA==1
+http://slp1.noxity.online:8081/DEP/tnt_sports_222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDIyIDI6MTk6NDMgUE0maGFzaF92YWx1ZT1lNGtPejUvb1FJekhVL2VpQjAvV2JnPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-sports-chile-logo-B6EA5EA7BC-seeklogo.com.png"group-title="",TNT SPORTS 2
 http://slp1.noxity.online:8081/DEP/tnt_sports_222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDg6NTk6MDQgUE0maGFzaF92YWx1ZT1SMTZPNXRETDBsbjR0c1lDZkU0QTlRPT0mdmFsaWRtaW51dGVzPTIyMA==1
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="",Directv Sports Plus
-http://slp1.noxity.online:8081/ssl/dtv+9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDk6MDI6NDEgUE0maGFzaF92YWx1ZT1VR1pEOE1yNXRDNVYzMnpSZ0cxNzF3PT0mdmFsaWRtaW51dGVzPTIyMA==1
+http://slp1.noxity.online:8081/ssl/dtv+9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDIyIDI6MjI6MjAgUE0maGFzaF92YWx1ZT1JZlFCWUxHM0FjN25zVkp3SnhqQnNnPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="",Directv Sports2
-http://slp1.noxity.online:8081/ssl/dtv29874/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDk6MDE6MDggUE0maGFzaF92YWx1ZT1sU1Y3UHBSZGQzVHhxZ3NWRkdXTkhRPT0mdmFsaWRtaW51dGVzPTIyMA==1
+http://slp1.noxity.online:8081/ssl/dtv29874/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDIyIDI6MjE6MDQgUE0maGFzaF92YWx1ZT11TjBEb3RlVG1QTlI3aHd6R0t4ejZBPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="",FOX SPORTS
-http://slp1.noxity.online:8081/DEP/fo_sp_mx546546/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDg6Mjc6MjkgUE0maGFzaF92YWx1ZT1Jd1psOFo5UGQ2UW1vazNobUZaVit3PT0mdmFsaWRtaW51dGVzPTIyMA==1
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="",FOX SPORTS 2-1
+http://slp1.noxity.online:8081/DEP/fo_sp_mx546546/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDIyIDI6MjQ6MTAgUE0maGFzaF92YWx1ZT1DVjJ3anQxTGdFM2ZTODJ0STBDS3VRPT0mdmFsaWRtaW51dGVzPTIyMA==
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="",FOX SPORTS 2
 http://190.92.25.115:8000/play/a0ab/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="",FOX SPORTS 2-2
-http://slp1.noxity.online:8081/DEP/FOX_SP_2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDg6NDA6MDIgUE0maGFzaF92YWx1ZT04aWFqSENKeldwUlI4MlAzSkU0VkhRPT0mdmFsaWRtaW51dGVzPTIyMA==1
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="",FOX SPORTS 3
-http://slp1.noxity.online:8081/DEP/fox_sp_3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDg6MzU6MTcgUE0maGFzaF92YWx1ZT1yRXNrRXNyZkgrRUN5eis3bWVnMC9BPT0mdmFsaWRtaW51dGVzPTIyMA==1
+http://slp1.noxity.online:8081/DEP/fox_sp_3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDIyIDI6MjU6MTEgUE0maGFzaF92YWx1ZT1lNVRwZCtja1N2U2k0T1BacXQ1dHJ3PT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f301fd5f4d4e42719b8528caafc254e5~mv2.png"group-title="",FOX SPORTS PREMIUM
 http://one.osito.monster:8081/oobs/foxpremiumX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3b3941fa5dd5439ca36d0e1563cdcfb5~mv2.png"group-title="",TyC SPORTS
@@ -65,9 +63,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 
 NACIONALES
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4UxJN8sSHW2pxOO9Wwt7dYgtdb9Jk5X_QgOGYUIkngY)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZedqpHmcCL3h22MUPet7eAm9aOyu9KG8fX33uFEAIW4)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnbeP3y5x-cFzMMIp2gHGa1ieBSbBUUm17Xodzrl9j_H)/dm/3/x828xvr/d/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmnnjc0WFGYCNfPr98ze8I8sGso8PwyI2Odm8upBBFff)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision UPPTV
@@ -351,7 +349,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285f
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/17/Cartoon-The-Simpsons-PNG-Clipart.png"group-title="INFANTILES",LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1658229327.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="INFANTILES",Disney Channel
-http://slp1.noxity.online:8081/INFANTIL/DISNEY_XD5435453/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIyIDY6NDc6MDYgUE0maGFzaF92YWx1ZT1ESnYxMWZOdHN0ZEk1M0JQdGpZQkp3PT0mdmFsaWRtaW51dGVzPTIyMA==
+http://slp1.noxity.online:8081/INFANTIL/DISNEY_XD5435453/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDIyIDI6MjY6NDggUE0maGFzaF92YWx1ZT1RdnhONGVTNWh0N3hHNlhrSkhLN2dBPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0f6c7448ca154814827c7f3a5e74a244~mv2.png"group-title="",Planeta KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1999901142.m3u8
 #EXTINF:-1 tvg-logo="https://ia904609.us.archive.org/29/items/1019-latino-kids-tv/1019_Latino_Kids_TV.png"group-title="INFANTILES",LATINO KIDS
