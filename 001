@@ -5,7 +5,7 @@ https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 http://190.92.25.115:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" tvg-group="DEPORTES",FOX SPORTS 2 MX
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" tvg-group="DEPORTES",FOX SPORTS 3 MX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3 MX
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f301fd5f4d4e42719b8528caafc254e5~mv2.png"group-title="",FOX SPORTS PREMIUM
 http://one.osito.monster:8081/oobs/foxpremiumX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
@@ -17,11 +17,11 @@ http://one.osito.monster:8081/oracle/Xespn1/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 http://one.osito.monster:8081/obs/espnextraX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_99983b48130d421e8130f11dc38748e3~mv2.png"group-title=",ESPN EXTRA2
 http://45.5.119.202:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"group-title="",CLARO SPORTS
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:-1 tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png"group-title="",BEIN SPORTS EXTRA Ñ1
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" tvg-group="DEPORTES", TIGO DEPORTES COSTA RICA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"group-title="",CLARO SPORTS
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" tvg-group="DEPORTES",TIGO DEPORTES COSTA RICA
 https://api55.tvgratis.live/streams3/tigocr.m3u8
 #EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg"group-title="",DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
