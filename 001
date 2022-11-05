@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX1
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX-A
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="",ESPNN
+https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png"group-title="",FOX SPORTS 2
 http://190.92.25.115:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" tvg-group="DEPORTES",FOX SPORTS 2-1
@@ -318,12 +320,20 @@ https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/chunks.m3u8
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
 INFANTILES
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png"group-title="",TIGUERITOS
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w699540142.m3u8
+#EXTINF:-1 tvg-logo="https://www.pocoyo.com/_site_v6/assets/images/html/series/cover-temporada2.png"group-title="",POCOYO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667646328/ei/F-9lY86ZOIK9wgSDmI6ICw/ip/2800%3Acd0%3Ac230%3Aed00%3Af072%3A11e8%3Ac744%3A9716/id/YX8Jbi8Au6o.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGNQevtM6zAgJtPWNdhtwlnf9VkMVLGkpstFvSoTm98gCIQC2UPOnrRzmfOlcFJ7Z28xix7DcuCcqMwoySA5j1RdUoA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.miprimerfestival.es/wp-content/uploads/2022/04/PJ-MASKS-Mi-Primer-Festival.png"group-title="",PJMASK
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667646777/ei/2fBlY8PJG8v0wASiwajYBQ/ip/2800%3Acd0%3Ac230%3Aed00%3Af072%3A11e8%3Ac744%3A9716/id/N7DSO6WiY9E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFYW8EtD2OAawLf485lqBnVzBDX0WiTbN7FgC4-LT9BYCIQCddIf6Nt98iL2SG3E3qXmN3_mmgUznzYjjMSpXgVEXvg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d7118f3dcb37462b8387b3a3ea54f017~mv2.png"group-title="Canales Bolivianos",SEO TV KIDS
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/energeek.png"group-title="",ENERGEEK
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/energeek.png"group-title="",ENERGEEK 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/conectatetvpr.com/wp-content/uploads/2019/12/FOTO-ACS-N.jpg"group-title="",ACS NETWORK
+https://acs.amelbasoluciones.co:3250/live/acslivelive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2b80b501d73447c960c2c7715ad4a41~mv2.png"group-title="",DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w648188036.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4428cab28a5542b289f95b4b19027f38~mv2.png"group-title="",PITUFOS
@@ -342,6 +352,8 @@ http://slp1.noxity.online:8081/INFANTIL/DISNEY_XD5435453/playlist.m3u8?wmsAuthSi
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1999901142.m3u8
 #EXTINF:-1 tvg-logo="https://ia904609.us.archive.org/29/items/1019-latino-kids-tv/1019_Latino_Kids_TV.png"group-title="INFANTILES",LATINO KIDS
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1325884744.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a69f7bc3b7374fd780d55884f220ccee~mv2.png",GOGO PLAY TV
+https://live-eu-1.livepush.io/live/emAeNk8mcoqhhYV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.Tooncast.png.0fe57e8d842b86dab0a697f23d51c14b.png"group-title="",TOONCAST
 http://45.5.119.202:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="",Cartoons Network
@@ -362,8 +374,10 @@ http://190.108.83.142:8000/play/a00u/index.m3u8
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logostv.es/storage/channels/logo-kids.png"group-title="",LOGOS KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w663686679.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d4f46d9ef754435bbeb1c43ef92f2da6~mv2.png"group-title="",PLANETA JUNIOR TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d4f46d9ef754435bbeb1c43ef92f2da6~mv2.png"group-title="",PLANETA JUNIOR TV1
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d4f46d9ef754435bbeb1c43ef92f2da6~mv2.png"group-title="",PLANETA JUNIOR TV2
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=117b&deviceDNT=0&deviceModel=0&already_redirected=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Fix_and_Fox_Channel_Logo.png"group-title="",Fix & Foxi TV
 https://3b1f302803504be983edf67a415ccbc8.mediatailor.us-east-1.amazonaws.com/v1/manifest/89d8075d3a928921d573b23f45b98499b71505b2/BlimTV_LIVE_FIXANDFOXI_HLS/ab5a60af-634d-450f-a0c4-153364aed0af/7.m3u8
 #EXTINF:-1  tvg-logo="https://redtal.tv/storage/3262/IPe_2020_200x200.png",ipe  PE
@@ -622,7 +636,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgrat
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w876343454.m3u8
 
 RADIOS
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX3
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX-B
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165652/images/logog.jpg?t=155085"group-title="",Radio Antena2000
 https://cloudstream2030.conectarhosting.com/8170/stream
