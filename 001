@@ -59,7 +59,7 @@ NACIONALES
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZaUWx6DaH3XBPOLSN5cDgImo03-gEO2b1nPVpsaUow6L)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmsyGuBwruKZV1sSS0kwQbe6a5CxITJTh_HhnDFlohgP)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhM2_XH3jYttsAiLYX52szYneIjVyoia2Wx26cWvNzZn)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision UPPTV
@@ -153,31 +153,16 @@ https://d3kk75blondskv.cloudfront.net/hls/canal12_220.m3u8
 https://dslvfq5ee0geu.cloudfront.net/hls/canal23_360.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/V/vtv-honduras-logo-3680BE9BFF-seeklogo.com.png"group-title="",VTV
 https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
-#EXTINF:-1 tvg-logo="https://yellow.place/file/image/thumb/0/0/528/jposngounhytzzkm.jpg"group-title="TV LIBRE",GALAXIA
-
-http://amixtv.com:8080/galaxiatv/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU",Tv Peru
-https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://cotubanamadigital.net/wp-content/uploads/2021/08/cotubanamatv.png"group-title="INFANTILES",COTUBANAMATV
-https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/92/87/20593/c300.png"group-title="",RADIO BLU HD
-https://59537faa0729a.streamlock.net:443/radioblu/radioblu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/11/canal-9-salta-en-vivo.jpg" group-title="ARGENTINA",MULTIVISION Canal 9 Salta
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/477_Telered.png",Telered  | CR
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
 #EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png"group-title="",Uni Teve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/11/canal-9-salta-en-vivo.jpg" group-title="ARGENTINA",MULTIVISION Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png",MILENIUM TV
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/bzqyl5rf_400x400_1.jpg"group-title="",NEOX TV
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Ciudad-TV-Resistencia-en-vivo-Online-218x150.png"group-title="",CIUDAD TV
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="",NEO TV HD
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png",WOW TV SD | SV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-nHFCYDL5_2o/AAAAAAAAAAI/AAAAAAAAAAA/5nCxkCQReb8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="COSTA RICA",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-o9pPhGXrzMU/UDQYqcGik4I/AAAAAAAAVVg/V01-iTq7J0g/s1600/TLX.png" group-title="ARGENTINA",Telemax TLX
@@ -192,6 +177,25 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w39892
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/640px-Telemadrid.svg.png"group-title="EXTRAS",TELEMADRID HD
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://cotubanamadigital.net/wp-content/uploads/2021/08/cotubanamatv.png"group-title="INFANTILES",COTUBANAMATV
+https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/92/87/20593/c300.png"group-title="",RADIO BLU HD
+https://59537faa0729a.streamlock.net:443/radioblu/radioblu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yellow.place/file/image/thumb/0/0/528/jposngounhytzzkm.jpg"group-title="TV LIBRE",GALAXIA
+
+http://amixtv.com:8080/galaxiatv/video.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/477_Telered.png",Telered  | CR
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png",WOW TV SD | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/12/canal-5-tigre-en-vivo.jpg"group-title="",CINCO TV
+https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1909228887.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2967fda83650483b8102d51d9a2d66f7~mv2.png"group-title="",CINEMAPLUS TV
+https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w1486727684.m3u8
+#EXTINF:-1  tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/gen-tv.png",GenTV HD
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"group-title="MEXICO",EstrellaTV
+https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/ANIMAL-PLANET-Logo-white_0.png"group-title="",AnimalPlanet
 http://190.92.25.115:8000/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1341747242319962115/uU98tjgX_400x400.jpg"group-title="",National Geographic
@@ -206,14 +210,8 @@ http://45.162.135.1:1080/play/a094
 http://190.92.25.115:8000/play/a0aj/index.m3u8
 #EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2021/03/logogaragetv_blanco.png"group-title="",El Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1311346406_b1296000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"group-title="MEXICO",EstrellaTV
-https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/12/canal-5-tigre-en-vivo.jpg"group-title="",CINCO TV
-https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1909228887.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2967fda83650483b8102d51d9a2d66f7~mv2.png"group-title="",CINEMAPLUS TV
-https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w1486727684.m3u8
-#EXTINF:-1  tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/gen-tv.png",GenTV HD
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
+
+
 
 CINE
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png"group-title="",Start Channel
@@ -312,6 +310,8 @@ https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist1080p.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png",Telesistema
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="",NEO TV HD
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/favImage.png"group-title="INFANTILES",STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
@@ -326,6 +326,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/conectatetvpr.com/wp-content/uploads/2019/12/FOTO-ACS-N.jpg"group-title="",ACS NETWORK
 https://acs.amelbasoluciones.co:3250/live/acslivelive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_214664f653924f4fae988519470fc76f~mv2.png"group-title="",EL CHAVO
+https://videostreaming.cloudserverlatam.com:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2b80b501d73447c960c2c7715ad4a41~mv2.png"group-title="",DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w648188036.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4428cab28a5542b289f95b4b19027f38~mv2.png"group-title="",PITUFOS
