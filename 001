@@ -270,8 +270,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_6.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_6.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/saber-ms/logo_20211119_205804_68.png"group-title="",SABER MAS
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master_6.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1e13f49f1a1447ac939cc7032acafe33~mv2.png"group-title="",NeoTV
-http://master.tucableip.com/neotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/COSMO_tv.png"group-title="",COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w684230842_b3128000_sling.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ca1c8ebed29c448596450c24f7c16a26~mv2.png"group-title="",COSMOSTV
@@ -280,12 +278,8 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61oOVpNLmqL._SL500_.png"group-title="",BUTACATV MX
 https://veranda-butacatv-2-mx.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cinesverdi.png"group-title="",VERDI CINES
-https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="http://mindlessones.com/wp-content/uploads/2013/10/vlcsnap-00003.jpg"group-title="",DRWHO ES
 https://bbceu-doctorwho-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="",FM FAMILY
-https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w224456028.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5ffdac679ef745869dbd7a0639283d6b~mv2.png"group-title="",A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png",Orbit TV
@@ -310,10 +304,12 @@ https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist1080p.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png",Telesistema
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="",NEO TV HD
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/favImage.png"group-title="INFANTILES",STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="",NEO TV HD
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="",FM FAMILY
+https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w224456028.m3u8
 
 INFANTILES
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png"group-title="",TIGUERITOS
@@ -326,8 +322,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/conectatetvpr.com/wp-content/uploads/2019/12/FOTO-ACS-N.jpg"group-title="",ACS NETWORK
 https://acs.amelbasoluciones.co:3250/live/acslivelive.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_214664f653924f4fae988519470fc76f~mv2.png"group-title="",EL CHAVO
-https://videostreaming.cloudserverlatam.com:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2b80b501d73447c960c2c7715ad4a41~mv2.png"group-title="",DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w648188036.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4428cab28a5542b289f95b4b19027f38~mv2.png"group-title="",PITUFOS
