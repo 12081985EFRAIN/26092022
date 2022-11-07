@@ -59,9 +59,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 
 NACIONALES
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZY3-xKPJssMIVA3ntE8iCJTmhOPaKxZr4p8N0oGSPiBG)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTlAz5GUV8KX4lGSluThXRkC0WTZDrqfGh36z0AnIP71)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhM2_XH3jYttsAiLYX52szYneIjVyoia2Wx26cWvNzZn)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh3A5udUVmnac8D3COy2XYUJLGbSzfXhjwrBpbyfHu7r)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision UPPTV
@@ -109,14 +109,6 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 http://canaltv.istbolivia.com:1935/vostv/vostv/chunklist_w743541189.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tl-estrella-bo.png"group-title="Bolivia",TL Estrella HD
 http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/chunklist_w782755658.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a2e4f36c2a224f41883f7d8404ef00f2~mv2.png" group-title="Musicales",+ CUMBIA TV HD 720p  | PE
-https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://radiosabrosuratv.com/wp-content/uploads/2022/06/279625532_445819207379608_28218367718250230_n-1536x864.png",La Sabrosura TV * | CL
-https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/32_Alegria_TV.png",Alegria TV SD | CL
-https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/a0450e_7b8ad3e1b71e4619a6a63a29ee1676f2~mv2.png",HATUN TV PE
-https://ca2.inka.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2b1cc4b7fea48889c921d744dd5d69a~mv2.png"group-title="Bolivia",Imperial-TV
 https://stmv.panel.grupolimalive.com/imperial/imperial/chunklist_w1771332187.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=4193924&t=1656719297689" group-title="Bolivia",TVU UMSA
@@ -316,14 +308,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab52300099867
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/favImage.png"group-title="INFANTILES",STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png"group-title="",TIGUERITOS
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w699540142.m3u8
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="",NEO TV HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="",FM FAMILY
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w224456028.m3u8
 
 INFANTILES
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png"group-title="",TIGUERITOS
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w699540142.m3u8
+#EXTINF:-1 tvg-id="1265" tvg-name="Tvmaxcba" tvg-logo="https://static.wixstatic.com/media/a0450e_6e15a5be37034711bcfbbc2e522af1b0~mv2.png",Tvmaxcba AR
+
+https://panel.dattalive.com/8106/8106/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d7118f3dcb37462b8387b3a3ea54f017~mv2.png"group-title="Canales Bolivianos",SEO TV KIDS
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/energeek.png"group-title="",ENERGEEK
@@ -424,8 +419,14 @@ https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 https://stmv.streamingvip.click/infinitatv/infinitatv/chunklist_w1104777539.m3u8
 
 MUSICA
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX2
-https://stream-52.zeno.fm/zs1ynrtnsuhvv?
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/a0450e_7b8ad3e1b71e4619a6a63a29ee1676f2~mv2.png",HATUN TV PE
+https://ca2.inka.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a2e4f36c2a224f41883f7d8404ef00f2~mv2.png" group-title="Musicales",+ CUMBIA TV HD 720p  | PE
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://radiosabrosuratv.com/wp-content/uploads/2022/06/279625532_445819207379608_28218367718250230_n-1536x864.png",La Sabrosura TV * | CL
+https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/32_Alegria_TV.png",Alegria TV SD | CL
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png"group-title="",VIWIX MUSIC
 https://s2.tvdatta.com:3548/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.cloudfm.cl/wp-content/uploads/2020/11/512X512-300x300.png"group-title="",Radio Clound FM
