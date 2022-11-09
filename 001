@@ -59,9 +59,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 
 NACIONALES
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7weAzI2fLgWOX2T7O9A0gvZdXNh-xcnJKGbOpETYr_B)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbkynROW1XY6aMCmLpjV6LKDd2pb-vIT56km4VG-WOLY)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrXdTYAe9YdkNsM411uVk66DidMxkl8u4bAEPaEiwYPG)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLj3lVJv4zgmqRdmgzZXr4CM1wsv6f-_qWawAURBYPxnG)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision UPPTV
@@ -310,6 +310,8 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w699540142.m3u8
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="",NEO TV HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-id="1157" tvg-name="Veo TV" tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png",Veo TV CO
+https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="",FM FAMILY
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w224456028.m3u8
 
@@ -335,10 +337,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f80007
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c4755ad550ba4f2aa280d75f4ad844c0~mv2.png"group-title="",NARUTO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_73d5fd39896e44e0963026e3e8cc7b0f~mv2.png"group-title="",ONE PIECE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7B
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_cbf8b4ba123a42dd8a332a92c050bd21~mv2.png"group-title="",BARNEY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7B
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a21031d5e8de46c89d5a3b836d794da5~mv2.png"group-title="INFANTILES",LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1658229327.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="INFANTILES",Disney Channel
-http://slp1.noxity.online:8081/INFANTIL/DISNEY_XD5435453/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDY6MTc6NTggUE0maGFzaF92YWx1ZT1sSXNQcmU3Y3A1REplMmo0R0xyTVVnPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0f6c7448ca154814827c7f3a5e74a244~mv2.png"group-title="",Planeta KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1999901142.m3u8
 #EXTINF:-1 tvg-logo="https://ia904609.us.archive.org/29/items/1019-latino-kids-tv/1019_Latino_Kids_TV.png"group-title="INFANTILES",LATINO KIDS
@@ -363,8 +367,6 @@ http://190.108.83.142:8000/play/a00v/index.m3u8
 http://190.108.83.142:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png"group-title="",Diosteve Kids
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1157" tvg-name="Veo TV" tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png",Veo TV CO
-https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://logostv.es/storage/channels/logo-kids.png"group-title="",LOGOS KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w663686679.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d4f46d9ef754435bbeb1c43ef92f2da6~mv2.png"group-title="",PLANETA JUNIOR TV1
