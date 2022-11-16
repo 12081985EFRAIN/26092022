@@ -58,12 +58,10 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 NACIONALES
-#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5833fc7fc596498a828dac4212765aee~mv2.png"group-title="Bolivia",RED UNO
 https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLt8cJ4ewExne-uEYvVDNtFTkdsiz_ShOtVSPK8cG7Sxn)/dm/3/x828xvr/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlykawJdUaCHeUSF0BBLjiv0_4_kpGt6VBgkMay66p_UL)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a4e4dd5d496645619d84199965903b19~mv2.png"group-title="Bolivia",MEGA Television
-http://canaltv.istbolivia.com:1935/megatv/megatv/chunklist_w577562146.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision UPPTV
@@ -87,6 +85,12 @@ http://boliviatv1.srfms.com:5735//live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.abi.bo/images/logos/BTV-wipala.png"group-title="Bolivia",BoliviaTV 7.2
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1024154521.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a4e4dd5d496645619d84199965903b19~mv2.png"group-title="Bolivia",MEGA Television
+http://canaltv.istbolivia.com:1935/megatv/megatv/chunklist_w577562146.m3u8
+#EXTINF:-1 tvg-logo="https://megatv.com.bo/wp-content/uploads/2022/03/megatv-1.png"group-title="Bolivia",MEGATV
+https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w1110243034.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b39a036d5feb41ed9bbdd47c4b17b18c~mv2.png"group-title="Bolivia",meGaTV
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7d5ebeaf237540f3bbdddf31125f1337~mv2.png"group-title="",CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w474173212.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DfLb6q9H12k/Xx6LmlMVe1I/AAAAAAAAKjw/uwMZG5F2BO0VJp76hUEOUvJw0qhMeeT2gCLcBGAsYHQ/s1600/cristal-tv.png"group-title="Bolivia",Cristal TV
@@ -99,10 +103,6 @@ https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://megatv.com.bo/wp-content/uploads/2022/03/megatv-1.png"group-title="Bolivia",MEGATV
-https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w1110243034.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b39a036d5feb41ed9bbdd47c4b17b18c~mv2.png"group-title="Bolivia",meGaTV
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/ayni-tv-bo.png"group-title="Bolivia",Ayni TV
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_c171b47875984944a1b26e417c2ed7e0~mv2.png/v1/fill/w_171,h_171,al_c,q_85,usm_0.66_1.00_0.01/VOS%20TV.webp"group-title="Bolivia",VosTV SD
@@ -342,7 +342,7 @@ https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1999901142.m3u8
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1325884744.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a69f7bc3b7374fd780d55884f220ccee~mv2.png",GOGO PLAY TV
 https://live-eu-1.livepush.io/live/emAeNk8mcoqhhYV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b6f2c7542a2e4443be2030830a9a0454~mv2.png"group-title="",LOCOMOTION
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_077bb8ded81f480e8de70012f673126d~mv2.png"group-title="",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.Tooncast.png.0fe57e8d842b86dab0a697f23d51c14b.png"group-title="",TOONCAST
 http://45.5.119.202:8000/play/a00z/index.m3u8
