@@ -58,11 +58,10 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 NACIONALES
-
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
-https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdrYtFM1DBHMP1H6R9hBshmEdChNbtpdiTYKH2S9xpfK-rpUrGD7-p23LpNJHMeepWg&dmTs=739678&dmV1st=E45E051989277EB2B146A95DEA7DD2D6
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLt8cJ4ewExne-uEYvVDNtFTkdsiz_ShOtVSPK8cG7Sxn)/dm/3/x828xvr/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
-https://www.dailymotion.com/cdn/live/video/x7wzxiw.m3u8?sec=r7ly5OhLV1OB30jgQe152ZRfuVogdezC7QVs_avVzNcA1XOEXKefzbYKE7gsUb6PlsuR8Z-sZubNAmhklJAQgw&dmTs=739678&dmV1st=E45E051989277EB2B146A95DEA7DD2D6
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlykawJdUaCHeUSF0BBLjiv0_4_kpGt6VBgkMay66p_UL)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a4e4dd5d496645619d84199965903b19~mv2.png"group-title="Bolivia",MEGA Television
 http://canaltv.istbolivia.com:1935/megatv/megatv/chunklist_w577562146.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
@@ -193,8 +192,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1909228887.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2967fda83650483b8102d51d9a2d66f7~mv2.png"group-title="",CINEMAPLUS TV
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w1486727684.m3u8
-#EXTINF:-1  tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/gen-tv.png",GenTV HD
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"group-title="MEXICO",EstrellaTV
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/ANIMAL-PLANET-Logo-white_0.png"group-title="",AnimalPlanet
@@ -221,6 +218,8 @@ http://45.162.135.1:1080/play/a09d
 http://190.108.83.142:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1e13f49f1a1447ac939cc7032acafe33~mv2.png"group-title="",NeoTV
 https://stream8.mexiserver.com:1936/neotvbolivia/neotvbolivia/chunklist_w1796037688.m3u8
+#EXTINF:-1  tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/gen-tv.png",GenTV HD
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"group-title="",VIX CINECLUB
 https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"group-title="",VIX ROMANCE
@@ -245,8 +244,6 @@ https://s2.tvdatta.com:3402/hybrid/play.m3u8
 https://s2.tvdatta.com:3849/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/a0450e_0ad54aac69d243949617eb84e4be1065~mv2.png",CINE RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1432572021.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png",CINE.AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/a0450e_a48a7138b2fd4b9daaee3ee24c2aa8d3~mv2.png",MultizonasTV
 https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/cine-sureo/logo_20211116_010445_68.png"group-title="",CINE SUREÑO
@@ -305,21 +302,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab52300099867
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b1f7f8333c264dd9af563ff3f4d0e179~mv2.png"group-title="",CANAL74
 https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w275710278.m3u8
+#EXTINF:-1 tvg-id="1157" tvg-name="Veo TV" tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png",Veo TV CO
+https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/favImage.png"group-title="INFANTILES",STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png"group-title="",TIGUERITOS
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w699540142.m3u8
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="",NEO TV HD
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="1157" tvg-name="Veo TV" tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png",Veo TV CO
-https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="",FM FAMILY
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w224456028.m3u8
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="",NEO TV HD
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 INFANTILES
-#EXTINF:-1 tvg-id="1265" tvg-name="Tvmaxcba" tvg-logo="https://static.wixstatic.com/media/a0450e_6e15a5be37034711bcfbbc2e522af1b0~mv2.png",Tvmaxcba AR
-
-https://panel.dattalive.com/8106/8106/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d7118f3dcb37462b8387b3a3ea54f017~mv2.png"group-title="Canales Bolivianos",SEO TV KIDS
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/energeek.png"group-title="",ENERGEEK
