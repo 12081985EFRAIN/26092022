@@ -58,10 +58,13 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 NACIONALES
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl63CfpKvmy5DiZPiLFhYgGmNXSXMEOiD6A0UPoPGZS1a)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
+
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnBB7YaOfF0hnTfZql4sGI0rCkVrBeGB5Koy8bw_e5nv)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
+https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdrYtFM1DBHMP1H6R9hBshmEdChNbtpdiTYKH2S9xpfK-rpUrGD7-p23LpNJHMeepWg&dmTs=739678&dmV1st=E45E051989277EB2B146A95DEA7DD2D6
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
+https://www.dailymotion.com/cdn/live/video/x7wzxiw.m3u8?sec=r7ly5OhLV1OB30jgQe152ZRfuVogdezC7QVs_avVzNcA1XOEXKefzbYKE7gsUb6PlsuR8Z-sZubNAmhklJAQgw&dmTs=739678&dmV1st=E45E051989277EB2B146A95DEA7DD2D6
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a4e4dd5d496645619d84199965903b19~mv2.png"group-title="Bolivia",MEGA Television
+http://canaltv.istbolivia.com:1935/megatv/megatv/chunklist_w577562146.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision UPPTV
@@ -97,8 +100,6 @@ https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a4e4dd5d496645619d84199965903b19~mv2.png"group-title="Bolivia",MEGA Television
-http://canaltv.istbolivia.com:1935/megatv/megatv/chunklist_w577562146.m3u8
 #EXTINF:-1 tvg-logo="https://megatv.com.bo/wp-content/uploads/2022/03/megatv-1.png"group-title="Bolivia",MEGATV
 https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w1110243034.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b39a036d5feb41ed9bbdd47c4b17b18c~mv2.png"group-title="Bolivia",meGaTV
@@ -119,8 +120,6 @@ https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ebd0393a990f4fe3ba97aff8514fe34f~mv2.png"group-title="Bolivia",CVC
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1500290821.m3u8
-#EXTINF:-1 tvg-logo="https://tvmegavision.com/wp-content/uploads/2021/03/Megavision-Bolivia-en-vivo-Online-1536x864.png"group-title="Bolivia",MEGAVISION SCRZ
-https://livefocamundo.com:8081/megavisiontv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d1eb2866e42f474db4ef3b8b05c8a459~mv2.png"group-title="Canales Bolivianos",ERBOL HD
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w355303119.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/e9b632aabb0576ebf8f67b5af638ccba.png"group-title="Bolivia",XtoTV
@@ -220,8 +219,8 @@ http://45.162.135.1:1080/play/a09c
 http://45.162.135.1:1080/play/a09d
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d6/66/2c/d6662cdffe29a10ece126d8df283ecee.jpg"group-title="",Comedy Central
 http://190.108.83.142:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9098c16148894b46ad5bcd06cbb4cb52~mv2.png"group-title="",PLANETA MOVIES
-https://scl.edge.grupoz.cl/movie/live/chunklist_w1092549865.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1e13f49f1a1447ac939cc7032acafe33~mv2.png"group-title="",NeoTV
+https://stream8.mexiserver.com:1936/neotvbolivia/neotvbolivia/chunklist_w1796037688.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"group-title="",VIX CINECLUB
 https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"group-title="",VIX ROMANCE
@@ -230,10 +229,10 @@ https://linear-194.frequency.stream/194/hls/master/playlist_1280x720.m3u8
 https://linear-195.frequency.stream/195/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"group-title="",VIX NOVELAS DE ORO
 https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_69763739a3d346568156d138c0e61df6~mv2.png"group-title="",SONY COMPETENCIAS
-https://spt-competencias-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_275a0ab1e04a4e69832506aa3a945e8f~mv2.png"group-title="",SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_69763739a3d346568156d138c0e61df6~mv2.png"group-title="",SONY COMPETENCIAS
+https://spt-competencias-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4027316ece5e4aea8a51d0eb06c58c06~mv2.png"group-title="",SONY COMEDIAS
 https://spt-comedias-1-us.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png"group-title="",VIWIX ACCION
