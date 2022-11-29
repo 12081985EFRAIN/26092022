@@ -339,16 +339,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7B
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4327a9907fac4d078f5c845cbb48f468~mv2.png"group-title="",La Pantera Rosa
 http://51.222.157.72:25461/APLICACIONrestream/FY1AX39CL3/87357?token=TBVZBxcJEAMQVgsBUwJWWAVSCllWCFUHB1cJAg8HUAUHAVNUBQJQWgYXFUFDQkAEUwxsCAUaDgkHVwxWFRQTF1JFbg8AQwgbCgwMUwgUHkNGCF4EQwIFBwZdD1gOA1FUGxVBDwBDCFdHWVVPElNKFVcTXQANZ1BURg1aBBsMCBFbWx1ECw9tXVdYWA1UFAhDA0MfQwhLRBMKCkwNVRpEBl5DQwcQBBADXEBVDxwUUQ5HD0cTGBoOE3IrG00bUx4QUllCDwsPEAMQQUpBHBRbEm0TVhIVSlFQXQFLQwMUVkYbFVwHHD5RVlxbXABEX10PQUMJQ1IIBBMcRlQOV18SC0VoQQ8AQwhXR1lVHg==
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d573581735b142149936faecde077ade~mv2.png"group-title="",Scooby-Doo
-http://51.222.157.72:25461/APLICACIONrestream/FY1AX39CL3/87333?token=TBVZBxcJEAMQUwkGVA8EVAoCBQIDCQYDAFxYVQ0CV10HDlUFU1MGAAoXFUFDQkAEUwxsCAUaDgkHVwpSFRQTF1JFbg8AQwgbCgwMUwgUHkNGCF4EQwIFBwZdD1gOD1RRGxVBDwBDCBsDAQ9TEhoQBEoVVhMPWVhuVAFPCFpTRF5ZQl0KSENdV21RXA5RWFZDCEMDQ00aXUJARgMPTFoKSBVVWBIWAEZcEA8bUgQDC0MeQ1AOFFZAQ0lGA0N7eURIFVJJEgEPQVBdWxtZEkJBQx5DWhI+SlFCRBZcAFRTFEYNFQFESENfWEpqWgxeWFcCRghcDxIaDhMDVAlDFRQLC1leRQkWPkJQVhcDQQEFAFUCQ04=
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ea0f5daf6d8b46d38baa9cfa609304b3~mv2.png"group-title="",Rugrats
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7B
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7a40fcd04c114a4384c6e48707924605~mv2.png"group-title="",El Pajaro Loco
 http://51.222.157.72:25461/APLICACIONrestream/FY1AX39CL3/87339?token=TBVZBxcJEAMQDFpVA1IFAAZQC1VZDwwJVgcOAAAEAAYPUgFfUQACWAMXFUFDQkAEUwxsCAUaDgkHVwpYFRQTF1JFbg8AQwgbCgwMUwgUHkNGCF4EQwIFBwZdD1gBBlNWGxVBDwBDCBsDDQtSBxQeQ1cZRwQTVlVdbwBcF1BVA0YNWUQKCE0QVlxqXQZdV1wFEFsRUUMUFlhDFBtbV0MKCBsVUw8QE1NNVxcDQQEEC1YQTRECDk1aRUIdG1sbdClGGxVUHhAEXEpbWldBChRGEhBNEQgSZ0ZUQxBLBFhbAxYVDRNWRk0QVFNNZgBfWFwEURVaDg9LFgsSVwlRGxpECVhZWBILE21JW1EbWRIHB1QKQ04=
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_214664f653924f4fae988519470fc76f~mv2.png"group-title="",EL CHAVO
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/101750.ts
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_53f2eaefb65e48299ec163b897d531be~mv2.png"group-title="",Disney JR
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/392.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f7683016923e4f87956bd598a1a4bbf1~mv2.png"group-title="",Futurama
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/106413.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Deportes",Esports Max
@@ -396,22 +392,22 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png",Anime ZoneTV1.2
 https://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://logoeps.com/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector.png"group-title="",Discovey Channel
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/371.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_53f2eaefb65e48299ec163b897d531be~mv2.png"group-title="",Disney Junior
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/392.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="",Cartoons Network1.1
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="",Cartoons Network1.2
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/370.m3u8
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="INFANTILES",Disney Channel
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/371.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_53f2eaefb65e48299ec163b897d531be~mv2.png"group-title="",Disney Junior
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/392.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"group-title="",Discovery Kids
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/374.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png"group-title="",NickJR
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/377.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.Tooncast.png.0fe57e8d842b86dab0a697f23d51c14b.png"group-title="",TOONCAST
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/381.m3u8
 #EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png"group-title="",Cartoonito
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/369.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="INFANTILES",Disney Channel
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/374.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png"group-title="",NickJR
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/377.m3u8
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png"group-title="",Diosteve Kids
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logostv.es/storage/channels/logo-kids.png"group-title="",LOGOS KIDS
