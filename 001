@@ -5,16 +5,16 @@ https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 http://62.210.201.74:8001/appskingfulltv/f8474x12cerXS2/1281
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS1.2
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_db88f07dfa97416eb92f17fb4ad816d2~mv2.png"group-title="DEPORTES",TVP
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/425.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b89dccea3e70475ca99ffdcea3060ac9~mv2.png"group-title="DEPORTES",CHILEVISION
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/473.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_56a40cad242145d0967de9f58235c293~mv2.png"group-title="DEPORTES",TELEAMAZONIAS
 https://play.flamaplus.tv/live/ctvDS321/427ddJG4/543.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ba36e36407a4419eb9e4f38d8a43e0b7~mv2.png"group-title="DEPORTES",Latina
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/746.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",Directv Sports
 http://62.210.201.74:8001/appskingfulltv/f8474x12cerXS2/1286
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_db88f07dfa97416eb92f17fb4ad816d2~mv2.png"group-title="DEPORTES",TVP
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/425.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b89dccea3e70475ca99ffdcea3060ac9~mv2.png"group-title="DEPORTES",CHILEVISION
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/473.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/438.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 2
@@ -148,8 +148,6 @@ http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 http://america.tucableip.com/bolivia/cristaltv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFeWCm5icgqrS-gxm8USsDKabH7gC4XaleV4u8aSNtzR9KJ0ktpN419gzJDVqrP-_C057OTyHJ6hG2uUh7ZsTzb-6OHTthrG4HqQd-9BsOKMVoGCp50p3D05-Wi9_wJRMtj4pM_vbKDLN5hdwtz3mFVu6pcXpZkn0w1ZrLxkkIVG8lod2Rvr6oGrq8vg/s3565/MARKVISION HD.jpg" group-title="Bolivia",MARKVISION TV HD
 https://stmv.panel.grupolimalive.com/marvision/marvision/chunklist_w543475711.m3u8
-#EXTINF:-1 tvg-logo="https://www.rectv.ec/images/2018/08/30/logo-blanco3.png"group-title="",RECTV ONLINE
-https://video.misistemareseller.com/Jonnytv/Jonnytv/chunklist_w773055180.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png"group-title="",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://actualidad.rt.com/static/img/og/logo-rt-black.jpg"group-title="",RT NOTICIAS
