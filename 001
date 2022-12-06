@@ -2,21 +2,29 @@
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDOMIX
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d39a3a401b354d63a7c22e1db59e496f~mv2.png"group-title="",TNT SPORTS
-http://slp1.noxity.online:8081/DEP/TNT_SPORTS_ARG/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDM6MzA6NTUgQU0maGFzaF92YWx1ZT1VRUdyTXYzOWIzdjdUdjhhTkJpYVd3PT0mdmFsaWRtaW51dGVzPTIyMA==&1
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/342.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/383.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/386.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",DIRECTV SPORTS+
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/384.m3u8
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png"tvg-group="DEPORTES",ECDF
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/385.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png"tvg-group="DEPORTES",BEIN SPORTS
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/359.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c7de19b56a58430fbab92fb80a0f590d~mv2.png"group-title="DEPORTES",RCN
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/504.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c7de19b56a58430fbab92fb80a0f590d~mv2.png"group-title="DEPORTES",RCN
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/393.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_56a40cad242145d0967de9f58235c293~mv2.png"group-title="DEPORTES",TELEAMAZONIAS
 https://play.flamaplus.tv/live/ctvDS321/427ddJG4/543.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ba36e36407a4419eb9e4f38d8a43e0b7~mv2.png"group-title="DEPORTES",Latina
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/746.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",Directv Sports
-http://62.210.201.74:8001/appskingfulltv/f8474x12cerXS2/1286
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_db88f07dfa97416eb92f17fb4ad816d2~mv2.png"group-title="DEPORTES",TVP
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/425.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b89dccea3e70475ca99ffdcea3060ac9~mv2.png"group-title="DEPORTES",CHILEVISION
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/473.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ba36e36407a4419eb9e4f38d8a43e0b7~mv2.png"group-title="DEPORTES",Latina
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/746.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_db88f07dfa97416eb92f17fb4ad816d2~mv2.png"group-title="DEPORTES",TVP
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/425.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/438.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 2
@@ -379,17 +387,25 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/609501978c069d00074e0dd2/maste
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="INFANTILES",Cartoons Network1.2
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/370.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="INFANTILES",Disney Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="INFANTILES",Cartoons Network1.3
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/371.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_53f2eaefb65e48299ec163b897d531be~mv2.png"group-title="INFANTILES",Disney Junior
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/392.m3u8
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="INFANTILES",Disney Channel
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/375.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"group-title="INFANTILES",Discovery Kids
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/374.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png"group-title="INFANTILES",NickJR
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/377.m3u8
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/379.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.Tooncast.png.0fe57e8d842b86dab0a697f23d51c14b.png"group-title="INFANTILES",TOONCAST
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/381.m3u8
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/395.m3u8
 #EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png"group-title="INFANTILES",Cartoonito
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/374.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_53f2eaefb65e48299ec163b897d531be~mv2.png"group-title="INFANTILES",Disney Junior
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/377.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png"group-title="INFANTILES",NICK
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/381.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png"group-title="INFANTILES",NickJR
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/390.m3u8
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2016/08/14051706_1756584314596667_1229740014207235146_n.jpg"group-title="INFANTILES",NICK MUSIC
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/392.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png"group-title="",BABYTV
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/369.m3u8
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png"group-title="INFANTILES",Diosteve Kids
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
