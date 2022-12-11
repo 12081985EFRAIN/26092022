@@ -13,6 +13,8 @@ https://play.flamaplus.tv/live/ctvDS321/427ddJG4/384.m3u8
 https://play.flamaplus.tv/live/ctvDS321/427ddJG4/385.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png"tvg-group="DEPORTES",BEIN SPORTS
 https://play.flamaplus.tv/live/ctvDS321/427ddJG4/359.m3u8
+#EXTINF:-1 tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png"tvg-group="DEPORTES",BEIN SPORTS EXTRA
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c7de19b56a58430fbab92fb80a0f590d~mv2.png"group-title="DEPORTES",RCN
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/504.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c7de19b56a58430fbab92fb80a0f590d~mv2.png"group-title="DEPORTES",RCN
@@ -50,12 +52,12 @@ http://play.flamaplus.tv/live/ctvDS321/427ddJG4/804.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a6/ec/51/a6ec51288397e1a0860ad4aadce0be84.jpg"tvg-group="DEPORTES",GOL PE
 
 http://slp2.noxity.online:8081/oracle/GOL_PERU/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png"tvg-group="DEPORTES",BEIN SPORTS EXTRA Ñ1
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"tvg-group="DEPORTES",CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"tvg-group="DEPORTES",TIGO DEPORTES COSTA RICA
 https://api55.tvgratis.live/streams3/tigocr.m3u8
+#EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg"group-title="",DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"tvg-group="DEPORTES",VIX LIGA MX
 https://linear-193.frequency.stream/193/hls/master/playlist_1280x720.m3u8
 http://45.5.119.202:8000/play/a032/index.m3u8
@@ -120,8 +122,10 @@ http://canaltv.istbolivia.com:1935/megatv/megatv/chunklist_w577562146.m3u8
 https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w1110243034.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7d5ebeaf237540f3bbdddf31125f1337~mv2.png"group-title="Bolivia",CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w474173212.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1e13f49f1a1447ac939cc7032acafe33~mv2.png"group-title="Bolivia",NeoTV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1e13f49f1a1447ac939cc7032acafe33~mv2.png"group-title="Bolivia",NeoTV1.1
 https://tvdatta.com:3434/live/neotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1e13f49f1a1447ac939cc7032acafe33~mv2.png"group-title="Bolivia",NeoTV1.2
+https://tvdatta.com:3434/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b3ef1a78e9ef40da8532fd54d9234bd7~mv2.png"group-title="Bolivia",TV SHOW ORURO
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
@@ -160,7 +164,7 @@ http://america.tucableip.com/bolivia/cristaltv/tracks-v1a1/index.m3u8
 https://stmv.panel.grupolimalive.com/marvision/marvision/chunklist_w543475711.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png"group-title="",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://actualidad.rt.com/static/img/og/logo-rt-black.jpg"group-title="",RT NOTICIAS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_716402ebe52c4a5eb24d3083f0ac6941~mv2.png"group-title="",RT NOTICIAS
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-logo="https://miradasdoc.com/mdoc2020/wp-content/uploads/2020/01/DW-logo.jpg"group-title="",DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
@@ -184,6 +188,9 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png"group-title="",Uni Teve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ba683591c4884039bf65e43018d646fa~mv2.png"group-title="TV LIBRE",GALAXIA
+
+http://amixtv.com:8080/galaxiatv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="General",TV Perú Internacional
 
 http://cdnh4.iblups.com/hls/irtp.m3u8
@@ -313,6 +320,8 @@ https://sabermas-plex.amagi.tv/SaberMas-xumo/master_6.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1432572021.m3u8
 #EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/a0450e_a48a7138b2fd4b9daaee3ee24c2aa8d3~mv2.png",MultizonasTV
 https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9098c16148894b46ad5bcd06cbb4cb52~mv2.png"group-title="",PLANETA MOVIES
+https://scl.edge.grupoz.cl/movie/live/chunklist_w1092549865.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/COSMO_tv.png"group-title="",COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w684230842_b3128000_sling.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ca1c8ebed29c448596450c24f7c16a26~mv2.png"group-title="",COSMOSTV
