@@ -1,26 +1,32 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDOMIX
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS
-https://play.flamaplus.tv/live/ctvDS321/427ddJG4/342.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS
-https://play.flamaplus.tv/live/ctvDS321/427ddJG4/383.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS1
+http://62.210.201.74:8001/teleappskings/c54fac24sdfe3/1281
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS2
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/342.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS3
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/383.m3u8
 #EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/611fd870e4b03ec37aae6e5e/image/1667399752332.png"group-title="DEPORTES",TD+
-https://play.flamaplus.tv/live/ctvDS321/427ddJG4/386.m3u8
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/386.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",DIRECTV SPORTS
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/888.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",DIRECTV SPORTS+
-https://play.flamaplus.tv/live/ctvDS321/427ddJG4/384.m3u8
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/889.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",DIRECTV SPORTS+
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/384.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png"tvg-group="DEPORTES",ECDF
-https://play.flamaplus.tv/live/ctvDS321/427ddJG4/385.m3u8
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/385.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png"tvg-group="DEPORTES",BEIN SPORTS
-https://play.flamaplus.tv/live/ctvDS321/427ddJG4/359.m3u8
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/359.m3u8
 #EXTINF:-1 tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png"tvg-group="DEPORTES",BEIN SPORTS EXTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c7de19b56a58430fbab92fb80a0f590d~mv2.png"group-title="DEPORTES",RCN
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/504.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c7de19b56a58430fbab92fb80a0f590d~mv2.png"group-title="DEPORTES",RCN
-https://play.flamaplus.tv/live/ctvDS321/427ddJG4/393.m3u8
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/393.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_56a40cad242145d0967de9f58235c293~mv2.png"group-title="DEPORTES",TELEAMAZONIAS
-https://play.flamaplus.tv/live/ctvDS321/427ddJG4/543.m3u8
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/543.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b89dccea3e70475ca99ffdcea3060ac9~mv2.png"group-title="DEPORTES",CHILEVISION
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/473.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ba36e36407a4419eb9e4f38d8a43e0b7~mv2.png"group-title="DEPORTES",Latina
@@ -57,7 +63,7 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"tvg-group="DEPORTES",TIGO DEPORTES COSTA RICA
 https://api55.tvgratis.live/streams3/tigocr.m3u8
 #EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg"group-title="",DEPORTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+http://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"tvg-group="DEPORTES",VIX LIGA MX
 https://linear-193.frequency.stream/193/hls/master/playlist_1280x720.m3u8
 http://45.5.119.202:8000/play/a032/index.m3u8
