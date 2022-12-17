@@ -409,7 +409,7 @@ http://play.flamaplus.tv/live/ctvDS321/427ddJG4/375.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"group-title="INFANTILES",Discovery Kids
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/379.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.Tooncast.png.0fe57e8d842b86dab0a697f23d51c14b.png"group-title="INFANTILES",TOONCAST
-https://play.flamaplus.tv/live/ctvDS321/427ddJG4/395.m3u8
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/395.m3u8
 #EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png"group-title="INFANTILES",Cartoonito
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/374.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_53f2eaefb65e48299ec163b897d531be~mv2.png"group-title="INFANTILES",Disney Junior
@@ -457,9 +457,6 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png"group-title="INFANTILES",Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1107" tvg-name="Wowly" tvg-logo="https://i2.paste.pics/9177c225a1b026e4b7e4b716f4a9c913.png"group-title="INFANTILES",Wowly
-https://stream.wowlymedia.com/hls/stream/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a21031d5e8de46c89d5a3b836d794da5~mv2.png"group-title="INFANTILES",LOS SIMPSONS1.1
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1658229327.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a21031d5e8de46c89d5a3b836d794da5~mv2.png"group-title="INFANTILES",LOS SIMPSONS1.2
@@ -890,5 +887,5 @@ http://usa1.usastreams.com:8000/cbtsrl?t=1546728157
 http://server.streambolivia.com:9890/;?t=1546809597
 #EXTINF:-1 tvg-logo=""group-title="",Bendita trinidad 1540 AM
 http://195.154.182.222:25107/live?t=1546811669
-#EXTINF:-1 tvg-logo=""group-title="",La Cruz del Sur ORURO1
+#EXTINF:-1 tvg-logo=""group-title="",La Cruz del Sur ORURO
 http://stm4.srvstm.com:23490/;?t=15468127537
