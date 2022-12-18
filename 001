@@ -11,7 +11,7 @@ http://play.flamaplus.tv/live/ctvDS321/427ddJG4/888.m3u8
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/889.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",DIRECTV SPORTS+
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/384.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_db88f07dfa97416eb92f17fb4ad816d2~mv2.png"group-title="DEPORTES",TVP
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_db88f07dfa97416eb92f17fb4ad816d2~mv2.png"group-title="DEPORTES",TELEVISION PUBLICA
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/425.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png"tvg-group="DEPORTES",ECDF
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/385.m3u8
@@ -95,7 +95,7 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 NACIONALES
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel-RED UNO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/455.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
