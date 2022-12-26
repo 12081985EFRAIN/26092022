@@ -1,67 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDOMIX
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS1
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/342.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS2
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/383.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",DIRECTV SPORTS
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/888.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",DIRECTV SPORTS+
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/889.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",DIRECTV SPORTS+
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/384.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_db88f07dfa97416eb92f17fb4ad816d2~mv2.png"group-title="DEPORTES",TELEVISION PUBLICA
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/425.m3u8
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png"tvg-group="DEPORTES",ECDF
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/385.m3u8
-#EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/611fd870e4b03ec37aae6e5e/image/1667399752332.png"group-title="DEPORTES",TD+
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/386.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png"tvg-group="DEPORTES",BEIN SPORTS
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/359.m3u8
-#EXTINF:-1 tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png"tvg-group="DEPORTES",BEIN SPORTS EXTRA
-https://siloh.pluto.tv/lilo/production/bein/b1121710f0b14c1146591b65168004e6/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png"tvg-group="DEPORTES",BEIN SPORTS EXTRA
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c7de19b56a58430fbab92fb80a0f590d~mv2.png"group-title="DEPORTES",RCN
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/504.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c7de19b56a58430fbab92fb80a0f590d~mv2.png"group-title="DEPORTES",RCN
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/393.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_56a40cad242145d0967de9f58235c293~mv2.png"group-title="DEPORTES",TELEAMAZONIAS
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/543.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b89dccea3e70475ca99ffdcea3060ac9~mv2.png"group-title="DEPORTES",CHILEVISION
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/473.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ba36e36407a4419eb9e4f38d8a43e0b7~mv2.png"group-title="DEPORTES",Latina
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/746.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1585.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/119692.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_00373f8da19e4b0c98cd268e0828100d~mv2.png"tvg-group="DEPORTES",Movistar Deportes
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/86951.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/438.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1513.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 2
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/440.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/20411.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 3
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/442.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1517.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="DEPORTES",FOX SPORTS
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/432.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1525.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png"group-title="DEPORTES",FOX SPORTS 2
 http://190.92.25.115:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" tvg-group="DEPORTES",FOX SPORTS 2-1
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3-0
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1521.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3-1
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3-2
+http://190.92.25.115:8000/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"tvg-group="DEPORTES",TUDN
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/117605.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"tvg-group="DEPORTES",TUDN1.1
 http://slp2.noxity.online:8081/oobs/studn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"tvg-group="DEPORTES",TUDN1.2
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/697.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_00373f8da19e4b0c98cd268e0828100d~mv2.png"tvg-group="DEPORTES",Movistar Deportes
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/762.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3e5dee84c4de45f8b8fe2d3a04d2805b~mv2.png"tvg-group="DEPORTES",VTV PLUS
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/804.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a6/ec/51/a6ec51288397e1a0860ad4aadce0be84.jpg"tvg-group="DEPORTES",GOL PE
 
 http://slp2.noxity.online:8081/oracle/GOL_PERU/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"tvg-group="DEPORTES",CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"tvg-group="DEPORTES",TIGO DEPORTES COSTA RICA
-https://api55.tvgratis.live/streams3/tigocr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"tvg-group="DEPORTES",TIGO SPORTS
+http://190.92.25.115:8000/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg"group-title="",DEPORTV
 http://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"tvg-group="DEPORTES",VIX LIGA MX
@@ -95,8 +69,6 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 NACIONALES
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",Unitel HD
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/455.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia",Bolivision UPPTV
@@ -218,8 +190,6 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w39892
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/640px-Telemadrid.svg.png"group-title="EXTRAS",TELEMADRID HD
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/telemundo-logo-92AB63B32B-seeklogo.com.png"group-title="",TELEMUNDO INTERNACIONAL
-http://190.92.25.115:8000/play/a0ak
 #EXTINF:-1 tvg-logo="https://cotubanamadigital.net/wp-content/uploads/2021/08/cotubanamatv.png"group-title="INFANTILES",COTUBANAMATV
 https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png",WOW TV SD | SV
@@ -232,48 +202,56 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w1486727684.m3u8
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"group-title="MEXICO",EstrellaTV
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/telemundo-logo-92AB63B32B-seeklogo.com.png"group-title="",TELEMUNDO INTERNACIONAL
+http://190.92.25.115:8000/play/a0ak/index.m3u8
+
+CINE
 #EXTINF:-1 tvg-logo="https://diseccionmoon.com/wp-content/uploads/2022/01/AE.jpg"group-title="",A&E
 http://190.92.25.115:8000/play/a0aj/index.m3u8
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/ANIMAL-PLANET-Logo-white_0.png"group-title="",AnimalPlanet
 http://190.92.25.115:8000/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png"group-title="",Discovery Theater
 http://190.92.25.115:8000/play/a0ad/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_215d5902e43e41e693fffd893beeb0e5~mv2.png"group-title="",Discovery World
-http://45.162.135.1:1080/play/a0b1
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_845994f732e346e3be777525f507574a~mv2.png"group-title="",Discovery Channel
-http://45.162.135.1:1080/play/a094
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8cb3e5e1719347c481a4d078552f1977~mv2.png"group-title="",HBO
-http://45.162.135.1:1080/play/a05g
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_261d61c95f944ea699fb2950bf1e483f~mv2.png"group-title="",HBO2
-http://45.162.135.1:1080/play/a05h
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png"group-title="",HBO FAMILY
-http://45.162.135.1:1080/play/a05j
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f03130322ea4e9e9f3e469f73d0bf97~mv2.png"group-title="",HBO PLUS
-http://45.162.135.1:1080/play/a05i
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2b02138544be4e898ed46b2322a24a8d~mv2.png"group-title="",WARNER TV
-http://45.162.135.1:1080/play/a09d
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png"group-title="",Start Channel
-http://45.162.135.1:1080/play/a09c
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1341747242319962115/uU98tjgX_400x400.jpg"group-title="",National Geographic
-http://45.162.135.1:1080/play/a0ax
-#EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg"group-title="",History Channel
-http://45.162.135.1:1080/play/a076
-#EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg"group-title="",History Channel 2
-http://190.131.247.82:8000/play/a073
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d6/66/2c/d6662cdffe29a10ece126d8df283ecee.jpg"group-title="",Comedy Central
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/269.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-series-latin-america-logo-CB0C416885-seeklogo.com.png"group-title="",TNT
-http://190.92.25.115:8000/play/a0ac
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c6d06eada326414294bee5a63a0b60a5~mv2.png"group-title="",FX
-http://45.162.135.1:1080/play/a07j
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8fd5b03aa946495ba9005da35e9483ea~mv2.png"group-title="",Paramount
-http://190.131.247.82:8000/play/a06f
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8f91cfa1cf594d88ac5cf60a617d58de~mv2.png"group-title="",Universal Cinema
-http://190.92.25.115:8000/play/a0aa
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1c121de4cdeb4d0f9d6a4a8ad66f4541~mv2.png"group-title="",H&H Discovery
-http://190.92.25.115:8000/play/a0ae
+http://190.92.25.115:8000/play/a0ae/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_6f799dd0527f40c18d665aa487f471ad~mv2.png"group-title="",Entertainment
-http://190.92.25.115:8000/play/a0ai
+http://190.92.25.115:8000/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8fd5b03aa946495ba9005da35e9483ea~mv2.png"group-title="",Paramount
+http://190.131.247.82:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8f91cfa1cf594d88ac5cf60a617d58de~mv2.png"group-title="",Universal Cinema
+http://190.92.25.115:8000/play/a0aa/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt_m.png"group-title="",TNT
+http://190.92.25.115:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-series-latin-america-logo-CB0C416885-seeklogo.com.png"group-title="",TNT SERIES
+http://190.92.25.115:8000/play/a0a3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_215d5902e43e41e693fffd893beeb0e5~mv2.png"group-title="",Discovery World
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1430.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_845994f732e346e3be777525f507574a~mv2.png"group-title="",Discovery Channel
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1417.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8cb3e5e1719347c481a4d078552f1977~mv2.png"group-title="",HBO
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1489.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_261d61c95f944ea699fb2950bf1e483f~mv2.png"group-title="",HBO2
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1490.ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png"group-title="",HBO FAMILY
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1495.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f03130322ea4e9e9f3e469f73d0bf97~mv2.png"group-title="",HBO PLUS
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1492.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2b02138544be4e898ed46b2322a24a8d~mv2.png"group-title="",WARNER TV
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/100077.ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png"group-title="",Start Channel
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1473.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1341747242319962115/uU98tjgX_400x400.jpg"group-title="",National Geographic
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1433.ts
+#EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg"group-title="",History Channel
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1409.ts
+#EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg"group-title="",History Channel 2
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1410.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d6/66/2c/d6662cdffe29a10ece126d8df283ecee.jpg"group-title="",Comedy Central
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/110012.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c6d06eada326414294bee5a63a0b60a5~mv2.png"group-title="",FX
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/102722.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d03f65e41f9848a4809c107737681125~mv2.png"group-title="",SONY CHANNEL
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/100075.ts
 #EXTINF:-1  tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/gen-tv.png",GenTV HD
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mindlessones.com/wp-content/uploads/2013/10/vlcsnap-00003.jpg"group-title="",DRWHO ES
@@ -286,8 +264,6 @@ https://linear-194.frequency.stream/194/hls/master/playlist_1280x720.m3u8
 https://linear-195.frequency.stream/195/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"group-title="",VIX NOVELAS DE ORO
 https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d03f65e41f9848a4809c107737681125~mv2.png"group-title="",SONY
-http://45.162.135.1:1080/play/a09e
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_275a0ab1e04a4e69832506aa3a945e8f~mv2.png"group-title="",SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_69763739a3d346568156d138c0e61df6~mv2.png"group-title="",SONY COMPETENCIAS
@@ -367,7 +343,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 INFANTILES
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_214664f653924f4fae988519470fc76f~mv2.png"group-title="INFANTILES",EL CHAVO
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/101750.ts
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/98337.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2b80b501d73447c960c2c7715ad4a41~mv2.png"group-title="INFANTILES",DREIKO TV
 https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4327a9907fac4d078f5c845cbb48f468~mv2.png"group-title="INFANTILES",La Pantera Rosa
@@ -382,6 +358,8 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62683498858f
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8b3e&deviceDNT=0&deviceModel=0
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7cf0d8d058ef411491de823487f19c7a~mv2.png"group-title="INFANTILES",POPEYE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://www.pegasusfantasy.mx/wp-content/uploads/2022/03/caballeros-800x737.png"group-title="INFANTILES",CABALLEROS DEL ZODIACO
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/86180.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c4755ad550ba4f2aa280d75f4ad844c0~mv2.png"group-title="INFANTILES",NARUTO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_73d5fd39896e44e0963026e3e8cc7b0f~mv2.png"group-title="INFANTILES",ONE PIECE
@@ -399,27 +377,23 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/609501978c069d00074e0dd2/maste
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="INFANTILES",Cartoons Network1.1
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="INFANTILES",Cartoons Network1.2
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/370.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="INFANTILES",Cartoons Network1.3
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/371.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1816.ts
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="INFANTILES",Disney Channel
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/375.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1821.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"group-title="INFANTILES",Discovery Kids
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/379.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1819.ts
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.Tooncast.png.0fe57e8d842b86dab0a697f23d51c14b.png"group-title="INFANTILES",TOONCAST
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/395.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1837.ts
 #EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png"group-title="INFANTILES",Cartoonito
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/374.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_53f2eaefb65e48299ec163b897d531be~mv2.png"group-title="INFANTILES",Disney Junior
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/377.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/101299.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png"group-title="INFANTILES",NICK
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/381.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1831.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png"group-title="INFANTILES",NickJR
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/390.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2016/08/14051706_1756584314596667_1229740014207235146_n.jpg"group-title="INFANTILES",NICK MUSIC
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/392.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1833.ts
+#EXTINF:-1 tvg-logo=""group-title="INFANTILES",S Junior
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1825.ts
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png"group-title="",BABYTV
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/369.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1811.ts
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png"group-title="INFANTILES",Diosteve Kids
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logostv.es/storage/channels/logo-kids.png"group-title="INFANTILES",LOGOS KIDS
@@ -458,9 +432,7 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a21031d5e8de46c89d5a3b836d794da5~mv2.png"group-title="INFANTILES",LOS SIMPSONS1.1
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1658229327.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a21031d5e8de46c89d5a3b836d794da5~mv2.png"group-title="INFANTILES",LOS SIMPSONS1.2
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/101771.ts
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f7683016923e4f87956bd598a1a4bbf1~mv2.png"group-title="INFANTILES",Futurama
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/106413.m3u8
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/103439.ts
 #EXTINF:-1 tvg-logo="https://ia904609.us.archive.org/29/items/1019-latino-kids-tv/1019_Latino_Kids_TV.png"group-title="INFANTILES",LATINO KIDS
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1325884744.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a69f7bc3b7374fd780d55884f220ccee~mv2.png"group-title="INFANTILES",GOGO PLAY TV
