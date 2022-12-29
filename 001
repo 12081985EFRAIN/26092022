@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDOMIX
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ba36e36407a4419eb9e4f38d8a43e0b7~mv2.png"group-title="DEPORTES",Latina
-http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1585.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/119692.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_00373f8da19e4b0c98cd268e0828100d~mv2.png"tvg-group="DEPORTES",Movistar Deportes
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/86951.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ba36e36407a4419eb9e4f38d8a43e0b7~mv2.png"group-title="DEPORTES",Latina
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1585.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1513.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 2
@@ -212,46 +212,52 @@ https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 http://190.92.25.115:8000/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="",UNIVISION
 http://190.92.25.115:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_adcebcb2b9ae4599839ed19d100cf511~mv2.png"group-title="",TELECADENA 7/4
-http://190.92.25.115:8000/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_728ff03c92a640c98dc87a97d17b1f97~mv2.png"group-title="",PASIONES
 http://190.92.25.115:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="",TELEMUNDO INTERNACIONAL
 http://190.92.25.115:8000/play/a0ak/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_edbf0919a2324203845e177d9265c6d0~mv2.png"group-title="",A&E
 http://190.92.25.115:8000/play/a0aj/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ae1516e506214cc7b997ac501e12edc3~mv2.png"group-title="",ANIMAL PLANET Discovery
-http://190.92.25.115:8000/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d9563e52c77c48e094ec1f01cf4a70e1~mv2.png"group-title="",AMC
 http://190.92.25.115:8000/play/a0cm/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_31205a98f7334548be9bb838ca21253e~mv2.png"group-title="",THEATER Discovery ID
-http://190.92.25.115:8000/play/a0ad/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1c121de4cdeb4d0f9d6a4a8ad66f4541~mv2.png"group-title="",H&H Discovery
-http://190.92.25.115:8000/play/a0ae/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_6f799dd0527f40c18d665aa487f471ad~mv2.png"group-title="",Entertainment
-http://190.92.25.115:8000/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b5356fa3e427459b9728e8e9d8447769~mv2.png"group-title="",EUROPA HD
-http://190.92.25.115:8000/play/a0co/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8fd5b03aa946495ba9005da35e9483ea~mv2.png"group-title="",Paramount
-http://190.92.25.115:8000/play/a0a2/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8f91cfa1cf594d88ac5cf60a617d58de~mv2.png"group-title="",Universal Cinema
-http://190.92.25.115:8000/play/a0aa/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_baf585cced0f47e6b5bd6a820b2853ba~mv2.png"group-title="",TNT
-http://190.92.25.115:8000/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_dc53cbdf0245460b863017952d2679fb~mv2.png"group-title="",TNT SERIES
-http://190.92.25.115:8000/play/a0a3/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_6303528c6e684b09b4202a9f6e65f62d~mv2.png"group-title="",Discovery ID
-http://190.92.25.115:8000/play/a0a9/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_215d5902e43e41e693fffd893beeb0e5~mv2.png"group-title="",WORLD Discovery HD
-http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1430.ts
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_845994f732e346e3be777525f507574a~mv2.png"group-title="",Discovery Channel
-http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1417.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3b5734f5b9394eccb4a3203d0167548d~mv2.png"group-title="",DHE HD
 http://190.92.25.115:8000/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c169cbe441fe422697e6d227197001ae~mv2.png"group-title="",FILM & ARTS
 http://190.92.25.115:8000/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_95d1859c60c5489e95158453a186889c~mv2.png"group-title="",STUDIO UNIVERSAL
 http://190.92.25.115:8000/play/a0ck/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_6f799dd0527f40c18d665aa487f471ad~mv2.png"group-title="",Entertainment
+http://190.92.25.115:8000/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b5356fa3e427459b9728e8e9d8447769~mv2.png"group-title="",EUROPA HD
+http://190.92.25.115:8000/play/a0co/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8fd5b03aa946495ba9005da35e9483ea~mv2.png"group-title="",Paramount
+http://190.92.25.115:8000/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7bb650acc7e4467a89166f12f5a26be3~mv2.png"group-title="",UNIVERSAL CINEMA
+http://190.92.25.115:8000/play/a0aa/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_aa9353bc358143bc9ddaee7c004f4754~mv2.png"group-title="",UNIVERSAL PREMIERE
+http://190.92.25.115:8000/play/a0cf/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2cc6ad2a296642579202090e47e6ebea~mv2.png"group-title="",UNIVERSAL REALITY
+http://190.92.25.115:8000/play/a0cg/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e56ab822b4d647f28af4f219a990c4d6~mv2.png"group-title="",UNIVERSAL CRIME
+http://190.92.25.115:8000/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ca96a46beb0e4fefbc3b09bd0810ca80~mv2.png"group-title="",UNIVERSAL COMEDY
+http://190.92.25.115:8000/play/a0ci/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_baf585cced0f47e6b5bd6a820b2853ba~mv2.png"group-title="",TNT
+http://190.92.25.115:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_dc53cbdf0245460b863017952d2679fb~mv2.png"group-title="",TNT SERIES
+http://190.92.25.115:8000/play/a0a3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1c121de4cdeb4d0f9d6a4a8ad66f4541~mv2.png"group-title="",H&H Discovery
+http://190.92.25.115:8000/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_31205a98f7334548be9bb838ca21253e~mv2.png"group-title="",THEATER Discovery ID
+http://190.92.25.115:8000/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ae1516e506214cc7b997ac501e12edc3~mv2.png"group-title="",Animal Planet Discovery
+http://190.92.25.115:8000/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_6303528c6e684b09b4202a9f6e65f62d~mv2.png"group-title="",Discovery ID
+http://190.92.25.115:8000/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_215d5902e43e41e693fffd893beeb0e5~mv2.png"group-title="",WORLD Discovery HD
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1430.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_845994f732e346e3be777525f507574a~mv2.png"group-title="",Discovery Channel
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1417.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8cb3e5e1719347c481a4d078552f1977~mv2.png"group-title="",HBO
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1489.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_261d61c95f944ea699fb2950bf1e483f~mv2.png"group-title="",HBO2
