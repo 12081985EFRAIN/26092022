@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDOMIX
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220820/ourlarge/pngtree-happy-new-year-2023-in-colorful-png-image_6117347.png"group-title="",FELIZ AÑO 2023
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/119692.ts
@@ -457,10 +457,6 @@ https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png"group-title="INFANTILES",PAKA PAKA
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2049673788.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/93/a2/99/93a299b41e4a7e0e7a4ec4a683956a63.jpg"group-title="INFANTILES",BABYSHARK MX
-https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image2492092642.jpg"group-title="INFANTILES",TELETUBIES BABY
-https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_639e6bc1a48c42f285e3f7ba7f5a1b94~mv2.png"group-title="INFANTILES",DUCKTV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Caillou-logo.png"group-title="INFANTILES",CAILLOU ES
@@ -469,12 +465,6 @@ https://dhx-caillou-1-es.samsung.wurl.tv/3000.m3u8
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d4f46d9ef754435bbeb1c43ef92f2da6~mv2.png"group-title="INFANTILES",PLANETA JUNIOR TV2
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=117b&deviceDNT=0&deviceModel=0&already_redirected=true
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image66291515902.jpg"group-title="INFANTILES",VRT KetNet Junior BEL
-https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1 tvg-logo="http://images.wikia.com/logopedia/images/b/bb/Nick_logo_with_depth.jpg"group-title="INFANTILES",NICK US
-https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/LEGO_1972_logo.png"group-title="INFANTILES",LEGO US
-https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4327a9907fac4d078f5c845cbb48f468~mv2.png"group-title="INFANTILES",La Pantera Rosa
 http://51.222.157.72:25461/APLICACIONrestream/FY1AX39CL3/87357?token=TBVZBxcJEAMQVgsBUwJWWAVSCllWCFUHB1cJAg8HUAUHAVNUBQJQWgYXFUFDQkAEUwxsCAUaDgkHVwxWFRQTF1JFbg8AQwgbCgwMUwgUHkNGCF4EQwIFBwZdD1gOA1FUGxVBDwBDCFdHWVVPElNKFVcTXQANZ1BURg1aBBsMCBFbWx1ECw9tXVdYWA1UFAhDA0MfQwhLRBMKCkwNVRpEBl5DQwcQBBADXEBVDxwUUQ5HD0cTGBoOE3IrG00bUx4QUllCDwsPEAMQQUpBHBRbEm0TVhIVSlFQXQFLQwMUVkYbFVwHHD5RVlxbXABEX10PQUMJQ1IIBBMcRlQOV18SC0VoQQ8AQwhXR1lVHg==
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ea0f5daf6d8b46d38baa9cfa609304b3~mv2.png"group-title="INFANTILES",Rugrats
@@ -499,6 +489,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7B
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8cad71115879923.Y3JvcCw4MzEsNjUwLDE2NCww.png"group-title="INFANTILES",KIDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7B
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image66291515902.jpg"group-title="INFANTILES",VRT KetNet Junior BEL
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/93/a2/99/93a299b41e4a7e0e7a4ec4a683956a63.jpg"group-title="INFANTILES",BABYSHARK MX
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image2492092642.jpg"group-title="INFANTILES",TELETUBIES BABY
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="http://images.wikia.com/logopedia/images/b/bb/Nick_logo_with_depth.jpg"group-title="INFANTILES",NICK US
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/LEGO_1972_logo.png"group-title="INFANTILES",LEGO US
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="",INFINITA TV MUSIC
 https://stmv.streamingvip.click/infinitatv/infinitatv/chunklist_w1104777539.m3u8
 
@@ -521,6 +521,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w777505469.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png"group-title="MUSICALES",Hits 360 720p | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png"group-title="MUSICALES",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lamegamundial.com/wp-content/uploads/2020/01/logolamega-vector-01.png"group-title="MUSICALES",MEGA MUNDIAL
 https://server40.servistreaming.com:3477/live/lamegamundiallive.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/13_Ruidos_TV.png"group-title="MUSICALES",Ruidos TV
@@ -564,8 +566,6 @@ https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png"group-title="MUSICALES",Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png"group-title="MUSICALES",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://theretrochannel.tv/img/theretrofb.jpg"group-title="MUSICALES",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w1161244903.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/318_TVO_Tocopilla.png"group-title="MUSICALES",TVO Tocopilla 720p
