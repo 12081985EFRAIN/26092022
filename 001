@@ -25,6 +25,8 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 http://190.92.25.115:8000/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3-3
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1521.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f301fd5f4d4e42719b8528caafc254e5~mv2.png"group-title="",FOX SPORTS PREMIUM
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1510.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"tvg-group="DEPORTES",TUDN 1
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/117605.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"tvg-group="DEPORTES",TUDN 2
@@ -146,6 +148,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-logo="https://miradasdoc.com/mdoc2020/wp-content/uploads/2020/01/DW-logo.jpg"group-title="",DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e3983c39871847f287590a8093ed805e~mv2.png"group-title="",CNN CHILE
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1227.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wtr57WC/tvperu-digital.jpg" tvg-group="PERU", ATV PERU
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png"group-title="",C9N TV
@@ -213,6 +217,8 @@ https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 http://190.92.25.115:8000/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="",UNIVISION
 http://190.92.25.115:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/492392666512891904/mo7_mjP1_400x400.png"group-title="",LA ROSA DE GUADALUPE
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/102754.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_728ff03c92a640c98dc87a97d17b1f97~mv2.png"group-title="",PASIONES
 http://190.92.25.115:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="",TELEMUNDO INTERNACIONAL
@@ -259,6 +265,8 @@ http://190.92.25.115:8000/play/a0a9/index.m3u8
 http://190.92.25.115:8000/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_215d5902e43e41e693fffd893beeb0e5~mv2.png"group-title="",WORLD Discovery HD
 http://190.131.247.82:8000/play/a06a
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8cb3e5e1719347c481a4d078552f1977~mv2.png"group-title="",HBO
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1488.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_261d61c95f944ea699fb2950bf1e483f~mv2.png"group-title="",HBO2
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1490.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png"group-title="",HBO FAMILY
@@ -417,6 +425,8 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w718026796.m3u8
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w663686679.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a21031d5e8de46c89d5a3b836d794da5~mv2.png"group-title="INFANTILES",LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1658229327.m3u8
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5eb95b8617f3c600044a2906.png"group-title="",LOS SIMPSONS
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/103439.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_214664f653924f4fae988519470fc76f~mv2.png"group-title="INFANTILES",EL CHAVO
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/98337.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d7118f3dcb37462b8387b3a3ea54f017~mv2.png"group-title="Bolivia",SEO TV KIDS
@@ -431,22 +441,28 @@ https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1999901142.m3u8
 https://live-eu-2.livepush.io/live/emAeNk8mcoqhhYV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png"group-title="INFANTILES",Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="INFANTILES",Cartoons Network1.1
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_236532837ef14376adbcfc7f7195d944~mv2.png"group-title="INFANTILES",Disney Junior
 http://190.131.247.82:8000/play/a09g
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="INFANTILES",Disney Channel
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1821.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_faeab7d8acb6447199cdf5b1f4e56767~mv2.png"group-title="INFANTILES",NICK
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1831.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c888431b975241d28500a02157abeee9~mv2.png"group-title="INFANTILES",NickJR
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1833.ts
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.Tooncast.png.0fe57e8d842b86dab0a697f23d51c14b.png"group-title="INFANTILES",TOONCAST
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1837.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="INFANTILES",Cartoons Network1.2
-http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1816.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"group-title="INFANTILES",Discovery Kids
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1819.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="INFANTILES",Cartoons Network1.1
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="INFANTILES",Cartoons Network1.2
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1816.ts
 #EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png"group-title="INFANTILES",Cartoonito
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/101299.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png"group-title="",BABYTV
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1811.ts
+#EXTINF:-1 tvg-logo="https://www.pngarts.com/files/4/Dragon-Ball-Z-Logo-PNG-Image-Background.png"group-title="",DRAGON BALL Z
+http://cpi4u.com:45862/live/test326/vvJwXUWUyB/115229.ts
 #EXTINF:-1 tvg-logo="https://www.pegasusfantasy.mx/wp-content/uploads/2022/03/caballeros-800x737.png"group-title="INFANTILES",CABALLEROS DEL ZODIACO
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/86180.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c4755ad550ba4f2aa280d75f4ad844c0~mv2.png"group-title="INFANTILES",NARUTO
