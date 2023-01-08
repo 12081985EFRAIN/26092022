@@ -382,6 +382,12 @@ https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w224456028.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 INFANTILES
+#EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="",INFINITA TV MUSIC1
+https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1322477516.m3u8
+#EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="",INFINITA TV MUSIC2
+https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1458411131.m3u8
+#EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="",INFINITA TV MUSIC3
+https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w515931582.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="INFANTILES",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/energeek.png"group-title="INFANTILES",EnerGeek 1
@@ -497,8 +503,7 @@ https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/LEGO_1972_logo.png"group-title="INFANTILES",LEGO US
 https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="",INFINITA TV MUSIC
-https://stmv.streamingvip.click/infinitatv/infinitatv/chunklist_w1104777539.m3u8
+
 
 MUSICA
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"group-title="MUSICALES",TV Pop PELICULAS Y MUSICA
@@ -823,6 +828,8 @@ http://radios.tecnosoul.com.ar:8000/radio1
 https://ssl.xcast.com.br:11646/;
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/870d46cb145c74514f0422f98efe4f74.jpg"group-title="",Radio Stereo 97.3 FM
 https://stream-44.zeno.fm/y6bu5rkpmnruv?zs=cutVJgKSSAuqgERiH5sRtw
+#EXTINF:-1  tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2017/01/ic_launcher-playstore-370x370.png"group-title="",INFINITA RADIO HD
+https://cloudstream2032.conectarhosting.com/9586/;
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/2d958b4be445570138e6ad1dd65a97b0.jpg"group-title="",Ritmo Romantica 93.1 FM
 https://25083.live.streamtheworld.com/CRP_RIT.mp3
 #EXTINF:-1 tvg-logo=""group-title="",RADIO ROMANTICA
