@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220820/ourlarge/pngtree-happy-new-year-2023-in-colorful-png-image_6117347.png"group-title="",FELIZ AÑO 2023
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
+#EXTINF:-1 tvg-id="1254" tvg-name="City Sports TV" tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png",City Sports
+https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/119692.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_00373f8da19e4b0c98cd268e0828100d~mv2.png"tvg-group="DEPORTES",Movistar Deportes
@@ -31,6 +33,10 @@ http://cpi4u.com:45862/live/test326/vvJwXUWUyB/1510.ts
 http://cpi4u.com:45862/live/test326/vvJwXUWUyB/117605.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"tvg-group="DEPORTES",TUDN 2
 http://slp2.noxity.online:8081/oobs/studn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_757056202ebc496fb1cdb86090644414~mv2.png"group-title="",BEIN SPORTS EXTRA
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png"group-title="",BEIN SPORTS EXTRA Ñ2
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a6/ec/51/a6ec51288397e1a0860ad4aadce0be84.jpg"tvg-group="DEPORTES",GOL PE
 
 http://slp2.noxity.online:8081/oracle/GOL_PERU/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
@@ -164,8 +170,6 @@ https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/477_Telered.png",Telered
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png",Telesistema
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-o9pPhGXrzMU/UDQYqcGik4I/AAAAAAAAVVg/V01-iTq7J0g/s1600/TLX.png" group-title="ARGENTINA",Telemax TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png"group-title="",Uni Teve
@@ -179,10 +183,8 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/bzqyl5rf_400x400_1.jpg"group-title="",NEOX TV
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Ciudad-TV-Resistencia-en-vivo-Online-218x150.png"group-title="",CIUDAD TV
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Ciudad-TV-Resistencia-en-vivo-Online-218x150.png"group-title="",CIUDAD MAGICA TV
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a738d3e26afe476088bcfbbfc1951d04~mv2.png"group-title="",UCL HD
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8
 #EXTINF:-1 tvg-logo="http://canal-i.com/wordpress/wp-content/uploads/2019/02/logo_v2-2.png"group-title="",Canli
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1494034968850444296/fnQ0cLB-_400x400.jpg"group-title="MEXICO",Mexiquense
@@ -199,8 +201,8 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlis
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/338_Canal_57_Melipilla.png"group-title="MUSICALES",Canal 57 Melipilla
 https://593b04c4c5670.streamlock.net:443/8148/8148/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/12/canal-5-tigre-en-vivo.jpg"group-title="",CINCO TV
-https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1909228887.m3u8
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/CINCO-TV-LA-IMAGEN.png"group-title="",CINCO TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2967fda83650483b8102d51d9a2d66f7~mv2.png"group-title="",CINEMAPLUS TV
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w1486727684.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b993b63b96534457a123c1fe43674638~mv2.png"group-title="",Ciudad Mágica TV
@@ -223,6 +225,8 @@ http://cpi4u.com:45862/live/test326/vvJwXUWUyB/102754.ts
 http://190.92.25.115:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="",TELEMUNDO INTERNACIONAL
 http://190.92.25.115:8000/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="",TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_edbf0919a2324203845e177d9265c6d0~mv2.png"group-title="",A&E
 http://190.92.25.115:8000/play/a0aj/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d9563e52c77c48e094ec1f01cf4a70e1~mv2.png"group-title="",AMC
@@ -766,7 +770,7 @@ https://sonic1.transmissaodigital.com:7058/;
 https://node-31.zeno.fm/nwzerpfbs8quv
 #EXTINF:-1 tvg-logo=""group-title="",MAXIMA CUMBIA CL
 https://node-09.zeno.fm/5me4hg77568uv
-#EXTINF:-1 tvg-logo=""group-title="",CUMBIA 90s BOLIVIA
+#EXTINF:-1 tvg-logo="https://tropical90.emisora.info/fotos/logo.jpg"group-title="",CUMBIA 90s BOLIVIA
 http://emiteradio.com:8223/stream
 #EXTINF:-1 tvg-logo=""group-title="",CUMBIA PARA RECORDAR
 https://node-02.zeno.fm/d4gm2mcym18uv
@@ -800,11 +804,11 @@ https://stream-60.zeno.fm/p7d5fpx4xnhvv?zs=Do9cJRW7RICI5btvRiQ0ew
 https://stream-63.zeno.fm/p7d5fpx4xnhvv?zs=hvVwzGBrSmm38VpgkPlZgQ
 #EXTINF:-1 tvg-logo="https://www.xn--radiolasurea-khb.com/wp-content/uploads/2021/08/Portada-Album-Radio-Surena.png"group-title="",Radio Sureña
 https://cloudstream2.oppublicidad.com/8038/stream
-#EXTINF:-1 tvg-logo=""group-title="",ONDA SUREÑA PE
-https://sonicpanel.streaming10.net/7040/stream
-#EXTINF:-1 tvg-logo=""group-title="",PERU CUMBIA RADIO
-http://184.154.28.210:7130/stream/1/
-#EXTINF:-1 tvg-logo=""group-title="",TENTACION SUREÑA
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/na29.png"group-title="",Radio La Sureña
+https://stream-59.zeno.fm/acmyk8cronmuv?zs=B6ZtuldNSBOaTIqKv8BNuw
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_com44.png"group-title="",Radio La Sureña
+https://host3.audiolatam.com:7042/;
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/tentacion_x1x1x4x4.png"group-title="",TENTACION SUREÑA
 https://node-09.zeno.fm/18sb67xyqzzuv
 #EXTINF:-1 tvg-logo="https://www.xn--sureaestereo-dhb.co/images/logo.png"group-title="",Sureña Estereo
 https://streaming.radiosenlinea.com.ar/8308/stream;
